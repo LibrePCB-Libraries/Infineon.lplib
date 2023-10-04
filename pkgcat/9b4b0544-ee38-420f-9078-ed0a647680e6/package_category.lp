@@ -1,0 +1,10 @@
+(librepcb_package_category 9b4b0544-ee38-420f-9078-ed0a647680e6
+ (name "Infineon")
+ (description "Custom packages by Infineon Technologies.")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-10-04T14:20:56Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
