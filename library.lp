@@ -1,0 +1,12 @@
+(librepcb_library c420515d-57d2-47f5-94c1-820dc4995867
+ (name "Infineon")
+ (description "Semiconductors by Infineon Technologies (unofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2023-10-04T14:16:17Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Infineon.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+ (manufacturer "Infineon Technologies")
+)
