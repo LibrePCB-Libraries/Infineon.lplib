@@ -3,7 +3,7 @@
  (description "Semiconductors by Infineon Technologies (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-10-04T14:16:17Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Infineon.lplib")
