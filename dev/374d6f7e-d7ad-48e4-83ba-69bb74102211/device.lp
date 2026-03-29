@@ -1,7 +1,7 @@
 (librepcb_device 374d6f7e-d7ad-48e4-83ba-69bb74102211
  (name "Infineon BAS3007A")
- (description "Bridge rectifier 30V/900mA in SOT143-4 package")
- (keywords "bridge, rectifier")
+ (description "Bridge rectifier 30V/900mA in SOT143-4 package.")
+ (keywords "bridge,rectifier")
  (author "eduardosm")
  (version "0.1")
  (created 2026-03-14T15:42:42Z)

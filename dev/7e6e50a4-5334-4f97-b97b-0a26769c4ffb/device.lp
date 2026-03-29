@@ -1,7 +1,7 @@
 (librepcb_device 7e6e50a4-5334-4f97-b97b-0a26769c4ffb
  (name "Infineon BAS4002A")
- (description "Bridge rectifier 40V/200mA in SOT143-4 package")
- (keywords "bridge, rectifier")
+ (description "Bridge rectifier 40V/200mA in SOT143-4 package.")
+ (keywords "bridge,rectifier")
  (author "eduardosm")
  (version "0.1")
  (created 2026-03-14T15:47:08Z)
